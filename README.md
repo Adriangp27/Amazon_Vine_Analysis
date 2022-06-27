@@ -24,7 +24,7 @@ Analyzing Amazon reviews written by Vine program members using a database of mus
 ![total_vine_5_star_reviews](https://user-images.githubusercontent.com/99752443/175845255-6ca00a7a-a8d8-4d45-958d-031393689bee.png)
 
 - Non-Vine reviews totaling 5-stars
-- 
+
 ![total_non_vine_5_star_reviews](https://user-images.githubusercontent.com/99752443/175845264-6a656835-522f-4664-80f4-ef9d32710486.png)
 
 ### The percentage of 5 Star Reviews
